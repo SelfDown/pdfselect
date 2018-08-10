@@ -1,0 +1,5 @@
+{
+	"source_path":"test.pdf",
+	"target_path":"target.pdf",
+	"print_pages":[4,8,9]	
+}
